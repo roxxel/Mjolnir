@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Mjolnir.UI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Mjolnir.UI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
